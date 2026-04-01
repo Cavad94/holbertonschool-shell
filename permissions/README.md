@@ -1,1 +1,1 @@
-This directory contains scripts for shell permissions tasks
+Project about shell permissions
